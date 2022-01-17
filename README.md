@@ -37,5 +37,6 @@ Estudante e apaixonado em programação sempre a procura de novas oportunidades.
 
 <div align="center">
   
- 
+ ### Emanuell-dev
+ 🖥️
 </div>

@@ -36,6 +36,6 @@ Estudante e apaixonado em programação sempre a procura de novas oportunidades.
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  
  
 </div>

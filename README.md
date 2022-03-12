@@ -21,7 +21,7 @@
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-# Estudante e apaixonado em programação e tecnologia, sempre a procura de evolução e novas oportunidades.
+### Estudante e apaixonado em programação e tecnologia, sempre a procura de evolução e novas oportunidades.
 
 <hr size 1>
 

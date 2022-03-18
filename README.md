@@ -37,6 +37,6 @@
 
 <div align="center">
   
- ### Emanuell-dev
+ ### Emanuell-Dev
  🖥️
 </div>
